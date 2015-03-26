@@ -1,4 +1,4 @@
-# Windows Base Machine
+# Azure VM Image using Packer
 
 ## Local Testing
 
